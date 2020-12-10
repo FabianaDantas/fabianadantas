@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Fabiana and welcome to my profile  👋
+
+- Information System student at EACH-USP   <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25">
+
+- I’m currently working as Software Engineer on Itaú Unibanco  :money_with_wings:
+
+- Programming as a hobby <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
 
 <!--
 **FabianaDantas/fabianadantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
