@@ -5,7 +5,7 @@
 
 - I currently work as a Software Engineer at a Financial Institution  :money_with_wings:
 
-- I like programming a lot, mainly web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I like programming a lot, learning and explorer new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://www.linkedin.com/in/fabiana-dantas/">
   <img align="left" alt="Fabiana's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
