@@ -1,19 +1,17 @@
-### Hi there, I'm Fabiana and welcome to my profile  👋
+### Hi there, welcome to my profile  👋
 <hr>
 
-- Information System student at EACH-USP   <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25">
-- I currently work as a Software Engineer :money_with_wings:
-- I like programming a lot, learning and explorer new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👩‍💻   I'm Fabiana, but you can call me Fabi! 
+- <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25">  Bachelor of Information Systems - University of São Paulo (EACH-USP)   
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working as a Software Engineer 
+- 🔭 Currently Backend and Big Data are my biggest challenges, but sometimes I take some risks on frontend
+- 🔧 Skills: Java, .NETCore, Python, AWS, SQL, Hadoop, Angular4+
 
-<a href="https://www.linkedin.com/in/fabiana-dantas/">
-  <img align="left" alt="Fabiana's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<br>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-dantas/)
 ![](https://visitor-badge.glitch.me/badge?page_id=fabianadantas.fabianadantas)
 
-
-
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fabianadantas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianadantas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -22,7 +20,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
