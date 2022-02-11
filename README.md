@@ -2,9 +2,7 @@
 <hr>
 
 - Information System student at EACH-USP   <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25">
-
-- I currently work as a Software Engineer at a Financial Institution  :money_with_wings:
-
+- I currently work as a Software Engineer :money_with_wings:
 - I like programming a lot, learning and explorer new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://www.linkedin.com/in/fabiana-dantas/">
